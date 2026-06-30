@@ -128,16 +128,6 @@ The interactive Power BI dashboard includes:
 - Increase promotions for high-performing product categories.
 
 
-## 📊 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-```md
-![Dashboard](Images/dashboard.png)
-``` 
-
----
-
 ## 🔄 Project Workflow
 
 ```text
