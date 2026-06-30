@@ -63,7 +63,7 @@ Performed exploratory analysis to understand:
 - Revenue distribution
 
 
-## 💻 SQL Business Analysis
+💻 SQL Business Analysis
 
 The following business questions were answered using SQL:
 
@@ -80,17 +80,17 @@ The following business questions were answered using SQL:
 
 
 
-# 📈 Power BI Dashboard
+📈 Power BI Dashboard
 
 The interactive Power BI dashboard includes:
 
-### KPI Cards
+KPI Cards
 
 - Total Customers
 - Average Purchase Amount
 - Average Review Rating
 
-### Visualizations
+Visualizations
 
 - Revenue by Category
 - Sales by Category
@@ -98,7 +98,7 @@ The interactive Power BI dashboard includes:
 - Sales by Age Group
 - Customer Subscription Distribution
 
-### Interactive Filters
+Interactive Filters
 
 - Gender
 - Category
@@ -118,7 +118,7 @@ The interactive Power BI dashboard includes:
 
 
 
-## 💡 Business Recommendations
+💡 Business Recommendations
 
 - Improve customer loyalty programs.
 - Promote subscription benefits to increase retention.
@@ -128,7 +128,7 @@ The interactive Power BI dashboard includes:
 - Increase promotions for high-performing product categories.
 
 
-## 🔄 Project Workflow
+🔄 Project Workflow
 
 ```text
 Dataset
@@ -154,7 +154,7 @@ Power BI Dashboard
 - Customer Segmentation using Machine Learning
 - Interactive Web Dashboard
 
-## 📬 Connect With Me
+📬 Connect With Me
 
 **Om Naringe**
 
